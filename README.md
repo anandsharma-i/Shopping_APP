@@ -1,16 +1,16 @@
-# shop_app
+# Shopping_APP
+> This is an app for shopping different product items.
 
-A new Flutter project.
+1) Adding/deleting/modifying products items in the home screen.
+2) Editing of the product items is done in manage product section. | `NOTE : Some dummy products are already added they can't be modified`  
+3) Adding/deleting product items into/from shopping cart.                                                                        
+4) Checking out from cart and adding to my orders.  
+5) Deleting orders from my orders                                                     
+6) User Email/password login authentication.               
+7) Maintaining a proper database layer(FireBase).        
+8) Making use of API layers wherever possible(FireBase).
+9) Making user of animations whenever possible.
+10) Logout feature is available. | `NOTE : auto logout occurs if token expires`
+11) In the home screen you can see either all product items or only favorite product items
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+***Made with*** :white_heart: ***in FLUTTER.***
